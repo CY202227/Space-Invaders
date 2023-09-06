@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="907d68ab-2d61-4b01-a1cc-dc00932f2e7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z6YH2fZ990ghSuWV0lUC2FgOYv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alien_invasion.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tudou_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.alien_invasion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="907d68ab-2d61-4b01-a1cc-dc00932f2e7b" name="Default Changelist" comment="" />
+      <created>1584160919552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584160919552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="201" key="#Notifications" timestamp="1584168480161">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="201" key="#Notifications/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584168480161" />
+    <state x="383" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584168592442">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="383" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584168592442" />
+    <state x="580" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584169779222">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="580" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584169779222" />
+    <state x="708" y="297" key="FileChooserDialogImpl" timestamp="1584168544812">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="708" y="297" key="FileChooserDialogImpl/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584168544812" />
+    <state width="1059" height="516" key="GridCell.Tab.0.bottom" timestamp="1584617793273">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1584617793273" />
+    <state width="1837" height="265" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584248092854" />
+    <state width="1059" height="516" key="GridCell.Tab.0.center" timestamp="1584617793273">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.0.center/0.0.1858.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1584617793273" />
+    <state width="1837" height="265" key="GridCell.Tab.0.center/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584248092854" />
+    <state width="1059" height="516" key="GridCell.Tab.0.left" timestamp="1584617793273">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.0.left/0.0.1858.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1584617793273" />
+    <state width="1837" height="265" key="GridCell.Tab.0.left/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584248092854" />
+    <state width="1059" height="516" key="GridCell.Tab.0.right" timestamp="1584617793273">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1059" height="516" key="GridCell.Tab.0.right/0.0.1858.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1584617793273" />
+    <state width="1837" height="265" key="GridCell.Tab.0.right/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584248092854" />
+    <state x="432" y="185" key="SettingsEditor" timestamp="1584166276371">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="432" y="185" key="SettingsEditor/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584166276371" />
+    <state x="-710" y="652" key="com.intellij.ide.util.TipDialog" timestamp="1584605278155">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-710" y="652" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1584605278155" />
+    <state x="637" y="367" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/-1080.0.1080.1920@0.0.1858.1080" timestamp="1584236632733" />
+  </component>
+</project>
